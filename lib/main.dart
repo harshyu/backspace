@@ -43,7 +43,7 @@ class LoginPageState extends State<LoginPage>
       backgroundColor: Colors.white,
       body: new Stack(fit: StackFit.expand, children: <Widget>[
         new Image(
-          image: new AssetImage("assets/girl.jpeg"),
+          image: new AssetImage("assets/coolback.jpg"),
           fit: BoxFit.cover,
           colorBlendMode: BlendMode.darken,
           color: Colors.black87,
